@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "ed3d43b59a758e1e558b1c88cfc78799d7ed7b798bc9dde5c70f626c6d4fe22f"
+build_start_time: [1668880403, 942225933]
+build_end_time: [1668880404, 22372007]
+inputs:
+  "/Users/Apps/Documents/flutter/QuestionsApp/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1668880385, 671967029]
+  "/Users/Apps/Documents/flutter/QuestionsApp/macos/Runner/AppDelegate.swift": !private [1667410075, 0]
+  "/Users/Apps/Documents/flutter/QuestionsApp/macos/Runner/MainFlutterWindow.swift": !private [1667410075, 0]
